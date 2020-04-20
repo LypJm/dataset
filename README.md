@@ -1,8 +1,9 @@
 # dataset
 各种数据集
 
-自然图像数据集
+各种自然场景数据集 www.robots.ox.ac.uk(文本定位，文本识别，人脸，人手，姿态识别等) 
 
+自然图像数据集
 
 MNIST: handwritten digits： 手写数字图集，最常用的完整的检查。数据集格式为25x25，居中，B＆W手写数字。这是一项简单的任务 - 仅仅因为某些东西适用于MNIST，并不意味着它全部适用。（项目地址：http://yann.lecun.com/exdb/mnist/）
 
